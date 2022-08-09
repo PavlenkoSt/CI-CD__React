@@ -1,4 +1,4 @@
-name: Upload to dev
+name: Deploy to s3 bucket
 
 on:
   push:
